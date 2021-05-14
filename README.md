@@ -20,3 +20,9 @@ We the students of PES University Bangalore have developed this project under th
 <h3> https://www.geeksforgeeks.org/deploying-a-tensorflow-2-1-cnn-model-on-the-web-with-flask/ </h3>
 <h3> http://ciir.cs.umass.edu/pubfiles/mm-27.pdf </h3>
 <h3> https://keras.io/ </h3>
+
+## Connect :
+https://twitter.com/protikuda
+https://www.instagram.com/tarang_negandhi/
+Discord : Tiku#0801
+
