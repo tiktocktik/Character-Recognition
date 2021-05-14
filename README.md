@@ -22,7 +22,7 @@ We the students of PES University Bangalore have developed this project under th
 <h3> https://keras.io/ </h3>
 
 ## Connect :
-https://twitter.com/protikuda
-https://www.instagram.com/tarang_negandhi/
-Discord : Tiku#0801
+<h2> https://twitter.com/protikuda </h2>
+<h2> https://www.instagram.com/tarang_negandhi/ </h2>
+<h2> Discord : Tiku#0801 </h2>
 
