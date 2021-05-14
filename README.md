@@ -1,1 +1,22 @@
 # Character-Recognition
+
+We the students of PES University Bangalore have developed this project under the MCA department for our 4th semester mini project
+
+•	Character Recognition is an application used to identify characters and numbers for a given image.
+
+•	To achieve this goal Character Recognition uses machine learning algorithms and computer vision methodologies. 
+
+•	Character Recognition uses convolutional neural network (CNN) algorithm to identify characters in the text and enhance it for processing.
+
+•	Character Recognition helps the end user in identifying the text in the image.
+
+## Upload any text based image file to the ui and it will try to identify and display the output of the text in the image.
+
+### http://www.itl.nist.gov/iaui/vip/cs_links/EMNIST/matlab.zip - download this file and extract the emnist-bymerge.mat to the root directory
+
+
+## References : 
+<h3> https://www.kaggle.com/ </h3>
+<h3> https://www.geeksforgeeks.org/deploying-a-tensorflow-2-1-cnn-model-on-the-web-with-flask/ </h3>
+<h3> http://ciir.cs.umass.edu/pubfiles/mm-27.pdf </h3>
+<h3> https://keras.io/ </h3>
