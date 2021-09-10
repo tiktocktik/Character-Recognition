@@ -1,5 +1,8 @@
 # Character-Recognition
+![alt text](https://github.com/tiktocktik/Character-Recognition/blob/main/images/home.png)
+![alt text](https://github.com/tiktocktik/Character-Recognition/blob/main/images/output.png)
 ![alt text](https://github.com/tiktocktik/Character-Recognition/blob/main/images/character_segmentation.png)
+![alt text](https://github.com/tiktocktik/Character-Recognition/blob/main/images/word_segmentation.png)
 We the students of PES University Bangalore have developed this project under the MCA department for our 4th semester mini project
 
 •	Character Recognition is an application used to identify characters and numbers for a given image.
